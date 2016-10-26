@@ -1,0 +1,8 @@
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\bin\Debug\yazimod.exe.config
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\bin\Debug\yazimod.exe
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\bin\Debug\yazimod.pdb
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\obj\Debug\yazimod.csprojResolveAssemblyReference.cache
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\obj\Debug\yazimod.MainForm.resources
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\obj\Debug\yazimod.csproj.GenerateResource.Cache
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\obj\Debug\yazimod.exe
+C:\Users\AKML\Documents\SharpDevelop Projects\yazimod\yazimod\obj\Debug\yazimod.pdb
